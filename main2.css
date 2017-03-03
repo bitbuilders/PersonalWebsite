@@ -1,0 +1,181 @@
+
+html {
+    background: ;
+    font-family: Muli, "Arial";
+    /*background-image: radial-gradient(#F4CFFF, #9D4FB2);*/
+    background-image: url(images/purpleShards.jpg);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+
+body {
+    background: #F4CFFF;
+    background-image: url(images/textbackground.jpg);
+    color: #D2FF85;
+    border: 2px solid #E485FF;
+    margin: 10px 100px;
+    padding: 15px;
+    width: 1100px;
+    height: auto;
+}
+
+header {
+    background: #E485FF;
+    color: #88B241;
+    text-align: left;
+    font-family: Arsenal;
+    width: 1100px;
+    height: 50px;
+    margin-bottom: 5px;
+}
+
+h1, h2 {
+    background: #9D4FB2;
+    border: 2px solid #E485FF;
+    color: #88B241;
+    padding: 5px;
+    height: 35px;
+}
+
+h3 {
+    color: #88B241;
+}
+
+table {
+    color: #88B241; 
+    background: #9D4FB2;
+    padding-bottom: 5px;
+    font-weight: 600;
+    border: 2px solid #E485FF;
+    margin-left: 100px;
+}
+
+nav {
+    background: #9D4FB2;
+    float: left;
+    height: ;
+    width: 530px;
+    margin-right: 10px;
+    margin-left: 265px;
+    margin-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    box-shadow: 3px 3px 4px #000;
+}
+
+footer {
+    text-align: right;
+    clear: both;
+    width: 1100px;
+    height: 120px;
+    margin-bottom: 20px;
+}
+
+section {
+    padding-left: ;
+}
+
+li {
+    list-style-type: none;
+}
+
+p {
+    background: ;
+    color: #88B241;
+    text-align: left;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+a:link {
+    color: #88B241;
+    text-decoration: none;
+    background: #F4CFFF;
+    display: block;
+    padding: 3px;
+    margin: 1px;
+    border: 2px solid #FFF;
+    text-align: center;
+    margin-top: 0%;
+    height: auto;
+    width: auto;
+}
+
+a:visited {
+    color: #88B241;
+    border: 2px solid #E485FF;
+}
+
+a:hover {
+    color: #D2FF85;
+}
+
+a:active {
+    color: #DB2;
+}
+
+.intro {
+    float: ;
+    width: 510px;
+    margin-top: 220px;
+}
+
+.shadow {
+    box-shadow: 3px 3px 4px #000;
+}
+
+.stay {
+    position: fixed;
+}
+
+.conclusion {
+    float: ;
+    width: ;
+    margin-top: 15px;
+    margin-bottom: ;
+}
+
+.finalConclusion {
+    margin-top: 445px;
+    width: 525px;
+}
+
+.navImg {
+    float: right;
+    width: 530px;
+    margin-top: 25px;
+}
+
+.endingImg {
+    margin-right: 50px;
+    padding-bottom: ;
+}
+
+.right {
+    float: ;
+    margin-left: ;
+    margin-bottom: ;
+    
+}
+
+.left {
+    float: left;
+    margin-left: 50px;
+}
+
+.middleContent {
+    width: 500px;
+    float: left;
+}
+
+.center {
+    float: none;
+}
+
+img {
+    border: 2px solid #E485FF;
+}
